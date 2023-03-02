@@ -2,7 +2,7 @@
 
 This Repo includes the p-code of our paper. (MATLAB Version).
 
-If you use our code, please cite our paper and hit the star at the top-right corner. Thanks!
+If you use our code, please cite our paper. Thanks!
 
 ## Testing
 ```
