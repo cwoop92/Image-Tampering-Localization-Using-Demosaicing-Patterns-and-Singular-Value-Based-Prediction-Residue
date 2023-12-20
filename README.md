@@ -7,7 +7,7 @@ If you use our code, please cite our paper. Thanks!
 ## Testing
 ```
 1. Clone repo
-2. run demo.p
+2. run demo.m
 3. choose pic and block size
 ```
 
