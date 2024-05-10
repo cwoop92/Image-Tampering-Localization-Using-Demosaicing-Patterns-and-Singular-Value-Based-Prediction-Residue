@@ -1,6 +1,6 @@
 # Image-Tampering-Localization-Using-Demosaicing-Patterns-and-Singular-Value-Based-Prediction-Residue
 
-This Repo includes the p-code of our paper. (MATLAB Version).
+This Repo includes the code of our paper. (MATLAB Version).
 
 If you use our code, please cite our paper. Thanks!
 
